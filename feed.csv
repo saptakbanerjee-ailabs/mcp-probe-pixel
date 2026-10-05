@@ -1,0 +1,4 @@
+id,title,description,availability,condition,price,link,image_link,brand
+MCP-TEST-001,Test Item Alpha (test),Synthetic test product for Meta Ads MCP probing - not for sale,in stock,new,100.00 INR,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item1.html,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item1.png,MCP Probe Test
+MCP-TEST-002,Test Item Beta (test),Synthetic test product for Meta Ads MCP probing - not for sale,in stock,new,200.00 INR,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item2.html,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item2.png,MCP Probe Test
+MCP-TEST-003,Test Item Gamma (test),Synthetic test product for Meta Ads MCP probing - not for sale,in stock,new,300.00 INR,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item3.html,https://saptakbanerjee-ailabs.github.io/mcp-probe-pixel/item3.png,MCP Probe Test
